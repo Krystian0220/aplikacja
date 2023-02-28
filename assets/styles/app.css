@@ -1,0 +1,12 @@
+@import '~bootstrap';
+@import '~@fortawesome/fontawesome-free';
+@import '~@fontsource/roboto-condensed';
+
+body {
+    background-image: url("img/tlo_str.jpg");
+    height: 100%;
+
+}
+textarea {
+    color: black;
+}
